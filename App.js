@@ -10,7 +10,7 @@ function App() {
         LinkedIn: <a href="https://www.linkedin.com/in/venkata-joshitha-m-36180b28b/" target="_blank" rel="noreferrer">venkata-joshitha-m-36180b28b</a>
       </p>
 
-      <h2>Professional Summary</h2>
+      <h2>Profile</h2>
       <p>
         Detail-driven IT undergraduate with a solid grounding in programming languages like Python, Java, and C++. Experienced in developing small-scale applications and continuously learning new technologies to enhance software performance.
       </p>
